@@ -1,0 +1,5 @@
+{
+  "name": "LR - Chart AI: Binary Signal Analyzer",
+  "description": "An advanced AI-powered tool to analyze binary trading chart images for the OTC market. Upload a chart screenshot, and LR - CHART AI provides a real-time CALL or PUT signal with detailed reasoning for 1-minute timeframes.",
+  "requestFramePermissions": []
+}
